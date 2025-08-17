@@ -243,4 +243,4 @@ def get_yield_predictor():
 
 @st.cache_resource  
 def get_chatbot():
-    return FarmChatbot()
+    return FarmChatbot()# M_Dashboard
