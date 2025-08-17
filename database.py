@@ -1,5 +1,5 @@
 """
-Database connection and query module for Ibali Farm Platform
+Database connection and query module for Ibali Farm agri-Platform
 Handles PostgreSQL and Firebase connections
 """
 import psycopg2
