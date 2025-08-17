@@ -45,8 +45,9 @@ class Config:
 
 # Streamlit secrets fallback
 def get_secret(key, default=''):
-    """Get secret from environment or Streamlit secrets"""
+    """Get secret key from environment or Streamlit secrets"""
     try:
         return st.secrets.get(key, os.getenv(key, default))
     except:
         return os.getenv(key, default)
+    
