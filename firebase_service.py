@@ -1,5 +1,5 @@
 """
-Firebase service for Ibali Farm Platform
+Firebase service for Ibali Farm Agri-Platform
 Handles real-time data from Firebase Realtime Database and IoT sensor integration
 """
 import firebase_admin
