@@ -1,5 +1,5 @@
 """
-Utility functions for Ibali Farm Platform
+Utility functions for Ibali Farm Agri-Platform
 Handles weather API, export functions, and other utilities
 """
 import requests
