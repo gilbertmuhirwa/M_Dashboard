@@ -1,5 +1,5 @@
 """
-Test script to verify all Ibali Farm Platform integrations work correctly
+Test script to verify all Ibali Farm Agri-Platform integrations work correctly
 """
 import sys
 import traceback
